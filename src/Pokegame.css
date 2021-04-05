@@ -1,0 +1,16 @@
+body {
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: black
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+    background-color: purple;
+}
